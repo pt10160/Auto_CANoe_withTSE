@@ -235,7 +235,7 @@ class CanoeTestEvents:
 app = CanoeSync()
 
 # loads the sample configuration
-app.Load('XH8_Test.cfg')
+app.Load('Test.cfg')
 
 app.LoadTestSetup('test_envirnment\Test Environment.tse')
 
